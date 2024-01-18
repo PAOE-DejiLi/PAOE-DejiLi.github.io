@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Deji Li's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Deji Li"
+description              : &description "Doctoral student at Waseda University Japan"
+url                      : https://paoe-dejili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PAOE-DejiLi/PAOE-DejiLi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -21,9 +21,9 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : "https-paoe-dejili-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -50,25 +50,27 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+# google_site_verification :
+# bing_site_verification   :
+# alexa_site_verification  :
+# yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# social:
+  # type                   : # Person or Organization (defaults to Person)
+  # name                   : # If the user or organization name differs from the site's name
+  # links: # An array of links to social media profiles
 
 
 # Analytics
@@ -80,42 +82,48 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Deji Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Postgraduate student"
+  location         : "Waseda University, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=pKRPuYsAAAAJ&hl=zh-CN"
+  email            : "Personal: lideji1997@gmail.com
+                      Academic: william_lee_1997@ruri.waseda.jp"
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
+  # github           : "academicpages"
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
+  # linkedin         :
+  orcid            : "https://orcid.org/0009-0000-3456-6203"
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : "replacethistwitterhandle"
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
+
+# Side bar
+# sidebar:
+#   - title: "Useful link"
+#   - text: "xxxxxxx"
 
 # Reading Files
 include:
@@ -181,13 +189,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  paper-reviews:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -199,7 +206,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -209,6 +216,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -227,15 +235,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _paper-reviews
   - scope:
       path: ""
-      type: portfolio
+      type: paper-reviews
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -244,6 +252,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
@@ -309,3 +318,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# gitment:
+#   enable: true
+#   githubID: PAOE-DejiLi
+#   repo: PAOE-DejiLi.github.io
+#   ClientID: 29fe58d573c9c9e2d269
+#   ClientSecret: 2167f0663bf10c6305a1dac20c6eb3777a1bb39a
+#   lazy: true
