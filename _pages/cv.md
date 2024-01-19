@@ -23,9 +23,9 @@ Research Interest
 * Photonic nanostructures: 
   * Modeling and characterizing photonic nanostructures including trivial and non-trivial photonic crystals.
 * On-chip silicon photonics optical signal processing and optical computing: 
-  <!-- * Developing and analyzing programmable photonic processors for signal processing and optical computing  -->
-<!-- * Silicon photonic devices:
-  * Developing and analyzing high-performance on-chip optoelectronic devices. -->
+  <!-- * Developing and analyzing programmable photonic processors for signal processing and optical computing -->
+<!-- * Silicon photonic devices: -->
+  <!-- * Developing and analyzing high-performance on-chip optoelectronic devices. -->
 
 Work experience
 ======
@@ -80,24 +80,19 @@ Talks
 ======
 
 Deji Li, Kiyoto Takahata
-Design of a silicon photonic crystal slow light waveguide in perturbed kagome lattice
-with a step taper for efficient light coupling
-------
+# Design of a silicon photonic crystal slow light waveguide in perturbed kagome lattice with a step taper for efficient light coupling
 The 17h International collaboration Symposium on Information, Production and Systems (ISIPS 2023) 
 
 Deji Li, Kiyoto Takahata
-Design of a silicon photonic crystal slow-light waveguide with a wide low-dispersion bandwidth
-------
+# Design of a silicon photonic crystal slow-light waveguide with a wide low-dispersion bandwidth
 The 16th International collaboration Symposium on Information, Production and Systems (ISIPS 2022) 
 
 Deji Li, Kiyoto Takahata
-Dispersion engineering of kagome lattice Si photonic crystal waveguide
-------
+# Dispersion engineering of kagome lattice Si photonic crystal waveguide
 The 15th International collaboration Symposium on Information, Production and Systems (ISIPS 2021) 
 
 Liang DONG, Wenkai Yang, Kiyoto Takahata
-Design of mode size converter on SOI waveguide for improvment of coupling efficiency and misalignment tolerance with single-mode fiber
-------
+# Design of mode size converter on SOI waveguide for improvment of coupling efficiency and misalignment tolerance with single-mode fiber
 The 14th International collaboration Symposium on Information, Production and Systems (ISIPS 2020) 
 
 
