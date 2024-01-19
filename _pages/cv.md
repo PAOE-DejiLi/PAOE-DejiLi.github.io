@@ -29,11 +29,13 @@ Research Interest
 
 Work experience
 ======
-* Spring 2019: Lab administrator in Collage Innovation&Competition Laboratory
+* **Spring 2019**: Lab administrator in Collage Innovation&Competition Laboratory
   * Sichuan University, China
   <!-- * Duties included: Experiment equipment maintenance, CNC and 3D printing safety management and operation instructions, and PCB design and 3D modeling instructions -->
 
-* Fall 2020 - Spring 2022: Teaching Assistant in multi-courses
+***
+
+* **Fall 2020 - Spring 2022**: Teaching Assistant in multi-courses
   * Courses: 
     * Opto-electronic Integrated Circuits
     * Optical Semiconductor Devices
@@ -43,10 +45,15 @@ Work experience
   * Waseda University, Japan
   <!-- * Duties included: Handling homework and reports, tracking student attendance, and Q&A after class -->
 
-* Spring 2022 - Spring 2023: Seminar Assistant
+***
+
+* **Spring 2022 - Spring 2023**: Seminar Assistant
   * Waseda University, Japan
   <!-- * Duties included: Hosting the seminar, providing suggestions, and giving questions -->
   
+
+***
+
 Publications
 ======
 
