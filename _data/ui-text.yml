@@ -22,7 +22,7 @@ en: &DEFAULT_EN
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
   # follow_label               : "Follow:"
-  follow_label               : "Enjoy your journey in physics and photonics:"
+  follow_label               : "Enjoy your journey in physics and photonics"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
