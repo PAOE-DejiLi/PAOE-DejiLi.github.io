@@ -18,14 +18,18 @@ Education
 * M.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2019-2021
 * D.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2021-2024 (expected)
 
+***
+
 Research Interest
 ======
-* Photonic nanostructures: 
+* **Photonic nanostructures:**          
   * Modeling and characterizing photonic nanostructures including trivial and non-trivial photonic crystals.
-* On-chip silicon photonics optical signal processing and optical computing: 
-  <!-- * Developing and analyzing programmable photonic processors for signal processing and optical computing -->
+* **On-chip silicon photonics optical signal processing and optical computing:**         
+  * Developing the silicon photonics devices for signal processing and optical computing. (e.g., Optical logical gates)          
 <!-- * Silicon photonic devices: -->
   <!-- * Developing and analyzing high-performance on-chip optoelectronic devices. -->
+  
+***
 
 Work experience
 ======
@@ -86,7 +90,6 @@ Zihan Yang, **Deji Li**, Kiyoto Takahata
 [2022 Conference on Lasers and Electro-Optics Pacific Rim](https://opg.optica.org/abstract.cfm?uri=CLEOPR-2022-P_CTu8_04)          
 
 ***
-
 
 Talks
 ======
