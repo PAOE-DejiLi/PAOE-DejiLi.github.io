@@ -47,8 +47,8 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  # path                   : # blank (default) uses feed.xml
-  hide                   : ture
+  path                   : # blank (default) uses feed.xml
+  # hide                   : ture
 
 # SEO Related
 # google_site_verification :
@@ -57,8 +57,8 @@ atom_feed:
 # yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+# twitter:
+#   username               : &twitter
 # facebook:
 #   username               :
 #   app_id                 :
@@ -120,6 +120,27 @@ author:
   # youtube          :
   # wikipedia        :
 
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 # Side bar
 # sidebar:
