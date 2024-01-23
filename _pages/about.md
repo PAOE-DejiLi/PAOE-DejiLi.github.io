@@ -10,11 +10,14 @@ author_profile: true
 redirect_from: 
   - /about
 ---
+
 About me
 ======
-I am currently a doctoral student in Opto-electronic Integrated Systems Lab, at Waseda University, Japan. I am interested in designing, evaluating, and characterizing photonic nanostructure (photonic crystal defect waveguide and waveguide using topological photonic crystal).
+I am currently a doctoral student in Opto-electronic Integrated Systems Lab, Waseda University, Japan. I am now working on designing and evaluating photonic nanostructure (including photonic crystal defect waveguide and waveguide using topological photonic crystal) and furthermore develope opto-electronic devices using photonic nanostructures.
 
 Prior to being a doctoral student, I received my Master's degree at the same lab at Waseda University (2019-2021) and my undergraduate degree from Sichuan University (2016-2020), majoring in Electronic and Information Engineering (EIE).
+
+***
 
 About this website
 ======
@@ -22,17 +25,19 @@ About this website
 
 Photonic crystals are kinds of periodic dielectric structures, which has already shown a novel way to “Control the Light” which is different from conventional optics. Photonic crystal waveguide is a key device in photonic crystal research that has an interesting phenomenon of guided light called “slow light” which has great potential in the study of light-matter interactions. Meanwhile, in the past few years, inspired by the topological insulator, topological photonics has attracted much attention, research has shown the robust transmission of guided light in topological photonic waveguides which are immune to disorder and defects. -->
 
-In this website I will share my experience in evaluating the photonic nanostructure using commercial software: COMSOL Multiphysics and open-source software: MIT Meep package. Meanwhile, I will provide several tutorials about how to perform the evaluation in my "Blog Posts". I hope this website can help those who want to put their first step in the nanophotonics area.
+In this website I will share my experience in evaluating the photonic nanostructure using commercial software: COMSOL Multiphysics and open-source software: MIT Meep package. Meanwhile, I will provide several tutorials about how to perform the evaluation in my "Blog Posts". I hope this website can help those who needs help in the nanophotonics area. Meanwhile, I will also share some personal reviews of interesting papers in the optoelectronics research field. 
 
-Meanwhile, I will also share some personal reviews of interesting papers in the optoelectronics research field. Several personal research progress will also be recorded and summarized including attending conferences, publishing papers, etc.
+**ENJOY YOUR JOURNEY IN PHYSICS AND PHOTONICS**
 
-All meaningful discussions and suggestions are very welcome
+***
 
 Anything new:
 ======
 * [>> [Blog tutorials] **Meep installation on ubuntu** <<](https://paoe-dejili.github.io/posts/2023/06/Introduction-2/)
-* [>> [Paper Review] &hearts; **Papers of great help to numerical analysis** &hearts; <<](https://paoe-dejili.github.io/paper-reviews/paper-review-2/)
+* [>> [Paper Review] **Papers of great help to numerical analysis** <<](https://paoe-dejili.github.io/paper-reviews/paper-review-2/)
 <!-- * [>> [Research Record] A talk is given on XXX conference <<](https://paoe-dejili.github.io//posts/xxxxx) -->
+
+***
 
 Useful links
 ======
