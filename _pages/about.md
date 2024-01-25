@@ -25,7 +25,11 @@ About this website
 
 Photonic crystals are kinds of periodic dielectric structures, which has already shown a novel way to “Control the Light” which is different from conventional optics. Photonic crystal waveguide is a key device in photonic crystal research that has an interesting phenomenon of guided light called “slow light” which has great potential in the study of light-matter interactions. Meanwhile, in the past few years, inspired by the topological insulator, topological photonics has attracted much attention, research has shown the robust transmission of guided light in topological photonic waveguides which are immune to disorder and defects. -->
 
-In this website I will share my experience in evaluating the photonic nanostructure using commercial software: COMSOL Multiphysics and open-source software: MIT Meep package. Meanwhile, I will provide several tutorials about how to perform the evaluation in my "Blog Posts". I hope this website can help those who needs help in the nanophotonics area. Meanwhile, I will also share some personal reviews of interesting papers in the optoelectronics research field. 
+In this website I will share my experience in evaluating the photonic nanostructure using COMSOL Multiphysics and  MIT MEEP package. In "Blog Posts", several tutorials about how to perform the evaluation will be summarized . I hope this website can help those who needs help in their research.
+
+<!-- the nanophotonics area.  -->
+
+<!-- Meanwhile, I will also share some personal reviews of interesting papers in the optoelectronics research field.  -->
 
 **ENJOY YOUR JOURNEY IN PHYSICS AND PHOTONICS**
 
