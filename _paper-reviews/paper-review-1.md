@@ -11,21 +11,32 @@ comments: true
 ---
 
 # -> Continuously updating <-
-## Recommended books and papers in Silicon Photonics
-**Book**: _"[Silicon Photonics Design From Devices to Systems](https://www.cambridge.org/core/books/silicon-photonics-design/BF3CF13E8542BCE67FD2BBC7104ECEAB)"_ 
-* Very detailed introduction is summarized and lots of components are analyzed.
-* Scripts in the book are uploaded to Github by author Prof. Lukas Chrostowski  --> [Link](https://github.com/lukasc-ubc).
 
-## Recommended books and papers in Optoelectronics devices
-**Paper [Laser]**: _"[10-Gb/s, 80-km SMF Transmission From 0 to 80 ∘C by Using L-Band InGaAlAs-MQW Electroabsorption Modulated Laser With Twin Waveguide Structure](https://ieeexplore.ieee.org/document/5210173)"_
-* Typical design in EADFB.
-* If you are interested you can check [NTT technical review](https://www.ntt-review.jp/).
+***
 
-**Paper [Modulator]**: _"[Silicon optical modulators](https://www.nature.com/articles/nphoton.2010.179)"_ 
-* Very important review for designs in Si optical modulators, very helpful for beginners.
+## Silicon Photonics and Basic Knowledges
 
-**Paper [Photodiode]**: _"[Uni-traveling-carrier photodiodes](https://pubs.aip.org/aip/jap/article/127/3/031101/157286/Uni-traveling-carrier-photodiodes)"_ 
-* UTC-PD is an important design in photodiodes. This paper provides a well-summarized analysis and review.
+| Item: Book/Paper/Script| Description | URL |
+| ----------- | ----------- | ----------- |
+| BOOK | **Silicon Photonics Design. From Devices to Systems** | [URL](https://www.cambridge.org/core/books/silicon-photonics-design/BF3CF13E8542BCE67FD2BBC7104ECEAB) |
+| SCRIPT | **Corresponding Script in book above**  | [URL](https://github.com/lukasc-ubc) |
+| BOOK | **Photonics. Optical Electronics in Modern Communications**  | [URL](https://global.oup.com/academic/product/photonics-9780195179460?cc=jp&lang=en&) |
+
+<!-- **Book**: _"[Silicon Photonics Design From Devices to Systems](https://www.cambridge.org/core/books/silicon-photonics-design/BF3CF13E8542BCE67FD2BBC7104ECEAB)"_  -->
+<!-- * Very detailed introduction is summarized and lots of components are analyzed. -->
+
+
+## Optoelectronics devices
+**Note:** Typical design in Laser/Modulator/Photodiode
+
+| Item: Book/Paper/Script| Description | URL |
+| ----------- | ----------- | ----------- |
+| Paper [Laser] | **10-Gb/s, 80-km SMF Transmission From 0 to 80 ∘C by Using L-Band InGaAlAs-MQW Electroabsorption Modulated Laser With Twin Waveguide Structure** | [URL](https://ieeexplore.ieee.org/document/5210173) |
+| Paper [Modulator] | **Silicon optical modulators**  | [URL](https://www.nature.com/articles/nphoton.2010.179) |
+| Paper [Photodiode] | **Uni-traveling-carrier photodiodes**  | [URL](https://pubs.aip.org/aip/jap/article/127/3/031101/157286/Uni-traveling-carrier-photodiodes) |
+
+
+
 
 ## Recommended books and papers in Photonic Crystals
 **Book**: _"[Photonic Crystals: Molding the Flow of Light](http://ab-initio.mit.edu/book/)"_ 
