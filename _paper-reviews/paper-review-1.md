@@ -1,5 +1,5 @@
 ---
-title: "For beginners -> The papers you need to check carefully at first"
+title: "Recommended works you may need to check at first"
 excerpt: Selected papers in optoelectronics and photonic crystals field  
 collection: paper-reviews
 layout: single
