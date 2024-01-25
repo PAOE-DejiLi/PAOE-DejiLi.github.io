@@ -1,5 +1,5 @@
 ---
-title: "Recommended works you may need to check at first"
+title: "Recommended works you may need to check"
 excerpt: Selected papers in optoelectronics and photonic crystals field  
 collection: paper-reviews
 layout: single
