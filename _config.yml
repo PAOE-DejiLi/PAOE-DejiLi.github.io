@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Deji Li's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Doctoral student at Waseda University Japan"
-url                      : https://paoe-dejili.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Deji Li"
+description              : &description "Doctoral student in Waseda University Japan"
+url                      : https://paoe-dejili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PAOE-DejiLi/PAOE-DejiLi.github.io"
 
@@ -22,11 +22,11 @@ repository               : "PAOE-DejiLi/PAOE-DejiLi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Deji Li"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Postgraduate student"
-  location         : "Waseda University, Japan"
-  employer         : 
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
