@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Deji Li's Website"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Deji Li"
-description              : &description "Doctoral student in Waseda University Japan"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://paoe-dejili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PAOE-DejiLi/PAOE-DejiLi.github.io"
