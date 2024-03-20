@@ -2,7 +2,7 @@
 title: "Recommended works you may need to check"
 excerpt: Selected papers in optoelectronics and photonic crystals field  
 collection: paper-reviews
-layout: single
+layout: default
 header:
   overlay_image: https://paoe-dejili.github.io/assets/images/aldebaran-s-qtRF_RxCAo0-unsplash.jpg
   caption: "Photo credit: [**UnsplashのAldebaran Sが撮影した写真**](https://unsplash.com/ja/%E5%86%99%E7%9C%9F/qtRF_RxCAo0)" 
