@@ -226,7 +226,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: ture
       read_time: true
       comments: true
       share: true
