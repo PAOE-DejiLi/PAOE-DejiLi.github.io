@@ -258,14 +258,14 @@ defaults:
       share: true
       comments: true
   # _paper-reviews
-  - scope:
-      path: ""
-      type: paper-reviews
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: false
+  # - scope:
+  #     path: ""
+  #     type: paper-reviews
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: false
   # _talks
   - scope:
       path: ""
