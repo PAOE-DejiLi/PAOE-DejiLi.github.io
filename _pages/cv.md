@@ -61,6 +61,10 @@ Work experience
 Publications
 ======
 
+**Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
+***Design of a Si Carrier-Depletion-Type Mach-Zehnder Modulator with Ultra-Compact Photonic Crystal Slow-Light Phase Shifter***          
+2024 Conference on Lasers and Electro-Optics Pacific Rim (Accepted)          
+
 **Deji Li**, Wenkai Yang, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Power-efficient 2 × 2 Si Mach-Zehnder interferometer optical switch utilizing compact slow-light phase shifter***          
 2024 IEEE Silicon Photonics Conference (Accepted)          
