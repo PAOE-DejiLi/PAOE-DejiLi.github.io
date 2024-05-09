@@ -37,8 +37,8 @@ In this website I will share my experience in evaluating the photonic nanostruct
 
 Anything new:
 ======
-* [>> [Blog tutorials] **Meep installation on ubuntu** <<](https://paoe-dejili.github.io/posts/2023/06/Introduction-2/)
-* [>> [Paper Review] **Papers of great help to numerical analysis** <<](https://paoe-dejili.github.io/paper-reviews/paper-review-2/)
+* [>> [Blog] **Meep installation on ubuntu** <<](https://paoe-dejili.github.io/posts/2023/06/Introduction-2/)
+* [>> [Blog] **Papers of great help to numerical analysis** <<](https://paoe-dejili.github.io/posts/2023/10/Introduction-3/)
 <!-- * [>> [Research Record] A talk is given on XXX conference <<](https://paoe-dejili.github.io//posts/xxxxx) -->
 
 ***
