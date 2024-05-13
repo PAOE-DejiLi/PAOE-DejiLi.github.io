@@ -23,7 +23,9 @@ Education
 Research Interest
 ======
 * **Photonic nanostructures:**          
-  * Modeling and characterizing photonic nanostructures including trivial and non-trivial photonic crystals.
+  * Modeling and evaluating novel photonic nanostructures including trivial and non-trivial photonic crystals.
+* **Silicon photonic devices**         
+  * Developing the silicon photonics devices with high-performance in a relatively compact size.          
 * **On-chip silicon photonics optical signal processing and optical computing:**         
   * Developing the silicon photonics devices for signal processing and optical computing. (e.g., Optical logical gates)          
 <!-- * Silicon photonic devices: -->
@@ -43,7 +45,7 @@ Work experience
   * Courses: 
     * Opto-electronic Integrated Circuits
     * Optical Semiconductor Devices
-    * Quantum Electrodymics
+    * Quantum Electrodynamics
     * Laser Engineering
     * Optical Circuit Simulation Technology
   * Waseda University, Japan
@@ -73,13 +75,13 @@ Publications
 
 Wenkai Yang, **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Numerical Demonstration of Silicon Micro-Ring Modulator with X-Interleaved PN Junction for High Modulation Efficiency***          
-[2023 Acia Communications and Photonics Conference and Exhibition](https://ieeexplore.ieee.org/abstract/document/10369178)          
+[2023 Asia Communications and Photonics Conference and Exhibition](https://ieeexplore.ieee.org/abstract/document/10369178)          
 
 ***
 
 Zihan Yang, **Deji Li**, Kiyoto Takahata          
 ***Design of a MMI-Based All-Optical AND-NAND-NOT and NOR-OR Multilogic Gate for Binary-Phase-Shift-Keyed Signal***          
-[2022 Acia Communications and Photonics Conference and Exhibition](https://ieeexplore.ieee.org/abstract/document/10088751)          
+[2022 Asia Communications and Photonics Conference and Exhibition](https://ieeexplore.ieee.org/abstract/document/10088751)          
 
 ***
 
@@ -117,7 +119,7 @@ The 15th International collaboration Symposium on Information, Production and Sy
 ***
 
 Liang DONG, **Deji Li**, Kiyoto Takahata          
-***Design of mode size converter on SOI waveguide for improvment of coupling efficiency and misalignment tolerance with single-mode fiber***          
+***Design of mode size converter on SOI waveguide for improvement of coupling efficiency and misalignment tolerance with single-mode fiber***          
 The 14th International collaboration Symposium on Information, Production and Systems (ISIPS 2020)          
 
 ***

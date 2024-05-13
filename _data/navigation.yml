@@ -20,3 +20,22 @@ main:
 
   # - title: "Guide"
   #   url: /markdown/
+
+Tools_Links:
+  - title: "Softwares"
+    children:
+      - title: "COMSOL Multiphysics"
+        url: https://www.comsol.jp/
+      - title: "Ansys Lumerical"
+        url: https://www.lumerical.com/
+      - title: "Synopsys Rsoft"
+        url: https://www.synopsys.com/ja-jp/optical-solutions/rsoft-photonic-device-tools.html
+      - title: "MIT MEEP"
+        url: https://github.com/NanoComp
+  - title: "Groups"
+    children:
+      - title: "Joannopoulos Group at MIT"
+        url: http://ab-initio.mit.edu/about.html
+      - title: "Fan Group at Stanford Univ."
+        url: https://web.stanford.edu/group/fan/
+
