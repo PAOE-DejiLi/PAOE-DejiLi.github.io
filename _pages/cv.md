@@ -69,7 +69,7 @@ Publications
 
 **Deji Li**, Wenkai Yang, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Power-efficient 2 × 2 Si Mach-Zehnder interferometer optical switch utilizing compact slow-light phase shifter***          
-2024 IEEE Silicon Photonics Conference (Accepted)          
+[2024 IEEE Silicon Photonics Conference](https://ieeexplore.ieee.org/document/10543281)          
 
 ***
 
