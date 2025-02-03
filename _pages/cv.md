@@ -14,9 +14,9 @@ header:
 
 Education
 ======
-* B.Eng in Electronic Information Engineering, Sichuan University, China, 2016-2020
-* M.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2019-2021
-* D.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2021-2024 (expected)
+* B.Eng in Electronic Information Engineering, Sichuan University, China, 2016 - 2020
+* M.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2019 - 2021
+* D.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2021 - present
 
 ***
 
@@ -25,7 +25,7 @@ Research Interest
 * **Photonic nanostructures:**          
   * Modeling and evaluating novel photonic nanostructures including trivial and non-trivial photonic crystals.
 * **Silicon photonic devices**         
-  * Developing the silicon photonics devices with high-performance in a relatively compact size.          
+  * Developing the silicon photonics devices with high-performance in compact size.          
 * **On-chip silicon photonics optical signal processing and optical computing:**         
   * Developing the silicon photonics devices for signal processing and optical computing. (e.g., Optical logical gates)          
 <!-- * Silicon photonic devices: -->
@@ -51,10 +51,10 @@ Work experience
   * Waseda University, Japan
   <!-- * Duties included: Handling homework and reports, tracking student attendance, and Q&A after class -->
 
-***
+<!-- ***
 
 * **Spring 2022 - Spring 2023**: Seminar Assistant
-  * Waseda University, Japan
+  * Waseda University, Japan -->
   <!-- * Duties included: Hosting the seminar, providing suggestions, and giving questions -->
   
 
@@ -65,7 +65,9 @@ Publications
 
 **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Design of a Si Carrier-Depletion-Type Mach-Zehnder Modulator with Ultra-Compact Photonic Crystal Slow-Light Phase Shifter***          
-2024 Conference on Lasers and Electro-Optics Pacific Rim (Accepted)          
+[2024 Conference on Lasers and Electro-Optics Pacific Rim](https://ieeexplore.ieee.org/abstract/document/10676592)           
+
+***
 
 **Deji Li**, Wenkai Yang, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Power-efficient 2 × 2 Si Mach-Zehnder interferometer optical switch utilizing compact slow-light phase shifter***          
@@ -99,6 +101,11 @@ Zihan Yang, **Deji Li**, Kiyoto Takahata
 
 Talks
 ======
+**Deji Li**, Kiyoto Takahata          
+***Ultra-compact and High-efficiency Silicon Photonic Devices Utilizing Photonic Crystal Slow-light Phase Shifter***          
+The 18h International collaboration Symposium on Information, Production and Systems (ISIPS 2024)          
+
+***
 
 **Deji Li**, Kiyoto Takahata          
 ***Design of a silicon photonic crystal slow light waveguide in perturbed kagome lattice with a step taper for efficient light coupling***          

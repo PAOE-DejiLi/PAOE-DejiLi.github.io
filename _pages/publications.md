@@ -26,7 +26,7 @@ comments: false
 
 **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Design of a Si Carrier-Depletion-Type Mach-Zehnder Modulator with Ultra-Compact Photonic Crystal Slow-Light Phase Shifter***          
-2024 Conference on Lasers and Electro-Optics Pacific Rim (Accepted)          
+[2024 Conference on Lasers and Electro-Optics Pacific Rim](https://ieeexplore.ieee.org/abstract/document/10676592)          
 
 **Abstract:** A Si Mach-Zehnder modulator using an ultra-compact photonic crystal slow-light
 phase shifter of 22 µm is numerically studied. The modulator exhibits an ultra-small V<sub>π</sub>L of
