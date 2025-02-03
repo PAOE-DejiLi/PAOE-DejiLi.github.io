@@ -2,7 +2,7 @@
 layout: archive
 permalink: /
 title: "Welcome to Deji Li's Web "
-excerpt: "“The science of today is the technology of tomorrow.” – Edward Teller"
+# excerpt: "“The science of today is the technology of tomorrow.” – Edward Teller"
 header:
   overlay_image: https://paoe-dejili.github.io/assets/images/laura-ockel-qOx9KsvpqcM-unsplash.jpg
   caption: "Photo credit: [**UnsplashのLaura Ockelが撮影した写真**](https://unsplash.com/ja/%E5%86%99%E7%9C%9F/qOx9KsvpqcM)"
