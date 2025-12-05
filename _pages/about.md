@@ -13,9 +13,9 @@ redirect_from:
 
 About me
 ======
-I am currently a doctoral student in Opto-electronic Integrated Systems Lab, Waseda University, Japan. I am now working on designing and evaluating photonic nanostructure (including photonic crystal defect waveguide and waveguide using topological photonic crystal) and furthermore develope opto-electronic devices using photonic nanostructures.
+I am currently a doctoral student in Opto-electronic Integrated Systems Lab, Waseda University, Japan. Working on designing and evaluating photonic nanostructure (including photonic crystal defect waveguide and waveguide using topological photonic crystal) and developing ultra-compact  high-performance opto-electronic devices.
 
-Prior to being a doctoral student, I received my Master's degree at the same lab at Waseda University (2019-2021) and my undergraduate degree from Sichuan University (2016-2020), majoring in Electronic and Information Engineering (EIE).
+Prior to being a doctoral student, I received my Master's degree in the same lab at Waseda University (2019-2021) and my undergraduate degree from Sichuan University (2016-2020), majoring in Electronic and Information Engineering (EIE).
 
 ***
 
@@ -50,6 +50,7 @@ Useful links
   * [MIT Meep](https://github.com/NanoComp)
   * [Ansys Lumerical](https://optics.ansys.com/hc/en-us#kb-anchor)
   * [Useful software from Fan Group (Stanford Univ.)](https://web.stanford.edu/group/fan/)
+  * [GDSFactory](https://gdsfactory.github.io/gdsfactory/)
 * Academic Search Engines:
   * [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
   * [Optica](https://www.optica.org/en-us/publications/)
