@@ -23,11 +23,11 @@ Education
 Research Interest
 ======
 * **Photonic nanostructures:**          
-  * Modeling and evaluating novel photonic nanostructures including trivial and non-trivial photonic crystals.
+  * Designing and evaluating photonic nanostructures including trivial and non-trivial photonic crystals.
 * **Silicon photonic devices**         
-  * Developing the silicon photonics devices with high-performance in compact size.          
+  * Designing high-performance silicon photonics devices (Modulators, switches, and etc.) with ultra-compact sizes.          
 * **On-chip silicon photonics optical signal processing and optical computing:**         
-  * Developing the silicon photonics devices for signal processing and optical computing. (e.g., Optical logical gates)          
+  * Developing photonic integrated circuits for signal processing and optical computing. (e.g., Optical logical gates and etc.)          
 <!-- * Silicon photonic devices: -->
   <!-- * Developing and analyzing high-performance on-chip optoelectronic devices. -->
   
@@ -62,6 +62,16 @@ Work experience
 
 Publications
 ======
+
+**Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
+***Numerical Demonstration of Silicon Mach-Zehnder Modulator Using Ultra-Compact Perturbed Kagome Lattice Slow-Light Phase Shifter***          
+2025 IEEE photonics Journal (Under Review)           
+***
+
+**Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
+***Numerical study on silicon photonic crystal defect waveguide with parametrically engineered photonic bandgap***          
+[2025 Japanese Journal of Applied Physics, vol. 64, Art. no. 082001](https://iopscience.iop.org/article/10.35848/1347-4065/adf537/meta)           
+***
 
 **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Design of a Si Carrier-Depletion-Type Mach-Zehnder Modulator with Ultra-Compact Photonic Crystal Slow-Light Phase Shifter***          

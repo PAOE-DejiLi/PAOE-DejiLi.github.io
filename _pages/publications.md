@@ -19,6 +19,27 @@ comments: false
   {% include archive-single.html %}
 {% endfor %} -->
 
+# 2025
+
+***
+
+**[Under Review]**     
+**Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
+***Numerical Demonstration of Silicon Mach-Zehnder Modulator Using Ultra-Compact Perturbed Kagome Lattice Slow-Light Phase Shifter***          
+2025 IEEE photonics Journal           
+
+**Abstract:** **Under Review**.
+
+***
+
+**Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
+***Numerical study on silicon photonic crystal defect waveguide with parametrically engineered photonic bandgap***          
+[2025 Japanese Journal of Applied Physics, vol. 64, Art. no. 082001](https://iopscience.iop.org/article/10.35848/1347-4065/adf537/meta)
+
+**Abstract:** Despite being potential candidates for future photonic integrated circuits, silicon photonic crystal waveguides (PCWs) suffer from a notable trade-off between their group index and low-dispersion bandwidth, limiting their applicability. Although various approaches to mitigate this limitation in PCWs in the conventional triangular lattice have been reported, most of them require complex manipulation of several PCW design parameters. This study presents the design of a silicon single-line-defect PCW in a perturbed kagome lattice with a lattice shift, focusing on its photonic bandgap (PBG) that can be parametrically engineered by modifying the perturbation in unit cells. A broad group index ranging from 56 to 256, with a low-dispersion bandwidth ranging from 6.18 to 1.05 nm, was achieved by merely adjusting the perturbation in the unit cells, highlighting the potential of controlling the PBG to design and optimize Si PCWs with a high group index and wide low-dispersion bandwidth.
+
+***
+
 
 # 2024
 
@@ -30,7 +51,7 @@ comments: false
 
 **Abstract:** A Si Mach-Zehnder modulator using an ultra-compact photonic crystal slow-light
 phase shifter of 22 µm is numerically studied. The modulator exhibits an ultra-small V<sub>π</sub>L of
-4.76 × 10<sup>-2</sup> V⋅cm and clearly opened-eye at 15 Gbit/s..
+4.76 × 10<sup>-2</sup> V⋅cm and clearly opened-eye at 15 Gbit/s.
 
 ***
 
