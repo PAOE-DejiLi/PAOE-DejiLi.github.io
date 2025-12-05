@@ -24,10 +24,10 @@ Research Interest
 ======
 * **Photonic nanostructures:**          
   * Designing and evaluating photonic nanostructures including trivial and non-trivial photonic crystals.
-* **Silicon photonic devices**         
-  * Designing high-performance silicon photonics devices (Modulators, switches, and etc.) with ultra-compact sizes.          
+* **Silicon photonic devices:**         
+  * Designing high-performance silicon photonics devices (modulators, switches, and etc.) with ultra-compact sizes.          
 * **On-chip silicon photonics optical signal processing and optical computing:**         
-  * Developing photonic integrated circuits for signal processing and optical computing. (e.g., Optical logical gates and etc.)          
+  * Developing photonic integrated circuits for signal processing and optical computing. (e.g., optical logical gates and etc.)          
 <!-- * Silicon photonic devices: -->
   <!-- * Developing and analyzing high-performance on-chip optoelectronic devices. -->
   
@@ -66,11 +66,13 @@ Publications
 **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Numerical Demonstration of Silicon Mach-Zehnder Modulator Using Ultra-Compact Perturbed Kagome Lattice Slow-Light Phase Shifter***          
 2025 IEEE photonics Journal (Under Review)           
+
 ***
 
 **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Numerical study on silicon photonic crystal defect waveguide with parametrically engineered photonic bandgap***          
 [2025 Japanese Journal of Applied Physics, vol. 64, Art. no. 082001](https://iopscience.iop.org/article/10.35848/1347-4065/adf537/meta)           
+
 ***
 
 **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
