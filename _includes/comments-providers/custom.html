@@ -14,12 +14,15 @@
     </script>
 </body>-->
 
+{% if page.collection == 'posts' %}
 <link
   rel="stylesheet"
   href="https://unpkg.com/@waline/client@v3/dist/waline.css"
 />
 
-<div id="waline"></div>
+<div class="page__comments-custom">
+  <div id="waline"></div>
+</div>
 
 <script type="module">
   import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
@@ -34,5 +37,13 @@
     comment: true,
   });
 </script>
+
+<style>
+  .page__comments-custom {
+    max-width: 760px;
+    margin: 2rem auto 0 auto;
+  }
+</style>
+{% endif %}
 
 <!-- end custom comments snippet -->

@@ -225,10 +225,10 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: false
+      comments: true
       share: true
       related: true
-      # toc: true
+
   # _pages
   - scope:
       path: ""
@@ -236,7 +236,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comments: true
+      comments: false
+
   # _teaching
   - scope:
       path: ""
@@ -245,7 +246,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+
   # _publications
   - scope:
       path: ""
@@ -254,7 +256,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
 
   # _talks
   - scope:
@@ -264,7 +266,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      comments: true
+      comments: false
 
 # Sass/SCSS
 sass:
