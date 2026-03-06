@@ -24,12 +24,18 @@ Research Interest
 ======
 * **Photonic nanostructures:**          
   * Designing and evaluating photonic nanostructures including trivial and non-trivial photonic crystals.
-* **Silicon photonic devices:**         
-  * Designing high-performance silicon photonics devices (modulators, switches, and etc.) with ultra-compact sizes.          
+* **Ultra-compact Silicon photonic devices:**         
+  * Designing high-performance ultra-compact silicon photonics devices (modulators, switches, and etc.) using slow-light waveguides.          
 * **On-chip silicon photonics optical signal processing and optical computing:**         
-  * Developing photonic integrated circuits for signal processing and optical computing. (e.g., optical logical gates and etc.)          
+  * Developing photonic integrated circuits for signal processing and optical computing. (e.g., optical logical gates)          
 <!-- * Silicon photonic devices: -->
   <!-- * Developing and analyzing high-performance on-chip optoelectronic devices. -->
+
+Research Projects/Topics
+======
+* **Silicon slow-light photonic crystal waveguide based on perturbed kagome lattice**   
+* **All-Si-based ultra-compact slow-light Mach-Zehnder interferometer optical switch**
+* **All-Si-based ultra-compact slow-light Mach-Zehnder modulator**
   
 ***
 
