@@ -39,3 +39,55 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* =========================
+   Academicpages layout improvements
+   ========================= */
+
+.page {
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page__content {
+  max-width: 980px;
+  width: 100%;
+}
+
+.layout--single .page__inner-wrap {
+  max-width: 1100px;
+}
+
+.wide .page__inner-wrap,
+.layout--single.wide .page__inner-wrap {
+  max-width: 1260px;
+}
+
+.wide .page__content,
+.layout--single.wide .page__content {
+  max-width: 1120px;
+}
+
+.page__content table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+}
+
+.page__content img,
+.page__content iframe {
+  max-width: 100%;
+}
+
+.page__content p,
+.page__content li {
+  line-height: 1.75;
+}
+
+.page__content h2 {
+  margin-top: 2rem;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 0.3rem;
+}
