@@ -1,7 +1,7 @@
 <!-- start custom comments snippet -->
-<head>
+<!--<head>
     Comments
-    <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+    <script src='//unpkg.com/valine/dist/Valine.min.jingjs'></script>
 </head>
 <body>
     <div id="vcomments"></div>
@@ -12,5 +12,27 @@
             appKey: 'xP3DvyhkU1WS2HpTECkmxkzR'
         })
     </script>
-</body>
+</body>-->
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+/>
+
+<div id="waline"></div>
+
+<script type="module">
+  import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+    el: '#waline',
+    serverURL: 'https://123-steel-phi-83.vercel.app',
+    lang: 'zh-CN',
+    meta: ['nick', 'mail', 'link'],
+    requiredMeta: ['nick', 'mail'],
+    pageview: true,
+    comment: true,
+  });
+</script>
+
 <!-- end custom comments snippet -->
