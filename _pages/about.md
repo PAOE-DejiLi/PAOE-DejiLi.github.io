@@ -13,7 +13,7 @@ redirect_from:
 
 About me
 ======
-I am currently a doctoral student in Opto-electronic Integrated Systems Lab, Waseda University, Japan. Working on designing and evaluating photonic nanostructure (including photonic crystal defect waveguide and waveguide using topological photonic crystal) and developing ultra-compact  high-performance opto-electronic devices.
+I am currently a doctoral student in Opto-electronic Integrated Systems Lab, Waseda University, Japan. Working on designing and evaluating slow-light waveguides (e.g. photonic crystal defect waveguide) and designing & evaluating ultra-compact high-performance silicon-based photonic devices.
 
 Prior to being a doctoral student, I received my Master's degree in the same lab at Waseda University (2019-2021) and my undergraduate degree from Sichuan University (2016-2020), majoring in Electronic and Information Engineering (EIE).
 
@@ -25,7 +25,7 @@ About this website
 
 Photonic crystals are kinds of periodic dielectric structures, which has already shown a novel way to “Control the Light” which is different from conventional optics. Photonic crystal waveguide is a key device in photonic crystal research that has an interesting phenomenon of guided light called “slow light” which has great potential in the study of light-matter interactions. Meanwhile, in the past few years, inspired by the topological insulator, topological photonics has attracted much attention, research has shown the robust transmission of guided light in topological photonic waveguides which are immune to disorder and defects. -->
 
-In this website I will share my experience in evaluating the photonic nanostructure using COMSOL Multiphysics and  MIT MEEP package. In "Blog Posts", several tutorials about how to perform the evaluation will be summarized . I hope this website can help those who needs help in their research.
+In this website I will share my experience in analyzing the photonic nanostructure using COMSOL Multiphysics and  MIT MEEP package. In "Blog Posts", some tutorials will be summarized . I hope this website can help those who needs help in their research.
 
 <!-- the nanophotonics area.  -->
 

@@ -64,8 +64,14 @@ Publications
 ======
 
 **Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
+***Design and numerical analysis of a silicon-based Mach-Zehnder interferometer optical switch using an ultracompact perturbed kagome lattice slow-light phase shifter***          
+2026 Japanese Journal of Applied Physics (Under Review)           
+
+***
+
+**Deji Li**, Takaaki Kakitsuka, Kiyoto Takahata          
 ***Numerical Demonstration of Silicon Mach-Zehnder Modulator Using Ultra-Compact Perturbed Kagome Lattice Slow-Light Phase Shifter***          
-2025 IEEE photonics Journal (Under Review)           
+2026 IEEE photonics Journal (Under Review)           
 
 ***
 
