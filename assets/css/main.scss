@@ -42,21 +42,42 @@
 
 /* ===== Academicpages alignment fix ===== */
 
-.layout--single .page__inner-wrap {
-  margin-left: 0;
+/* Remove left empty sidebar space on archive pages */
+.layout--archive .page__inner-wrap {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
-.layout--single .page__content {
-  margin-left: 0;
-  padding-left: 0;
+.layout--archive .archive {
+  margin-left: 0 !important;
   max-width: 1100px;
 }
 
-.page {
-  max-width: 1400px;
-  margin-left: auto;
-  margin-right: auto;
+.layout--archive .archive__item,
+.layout--archive .list__item {
+  margin-left: 0 !important;
 }
+
+/* Wider archive content when no author sidebar */
+.layout--archive .page {
+  max-width: 1400px;
+}
+
+@media (min-width: 64em) {
+  .layout--archive .page__content {
+    float: none;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .layout--archive .archive {
+    width: 100%;
+    max-width: 1100px;
+    margin-left: 0;
+  }
+}
+
 // /* =========================
 //    Academicpages layout improvements
 //    ========================= */
