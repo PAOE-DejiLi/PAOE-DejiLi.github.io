@@ -154,9 +154,11 @@ Liang DONG, **Deji Li**, and Kiyoto Takahata
 ***Design of mode size converter on SOI waveguide for improvement of coupling efficiency and misalignment tolerance with single-mode fiber***          
 The 14th International collaboration Symposium on Information, Production and Systems (ISIPS 2020)          
 
-***
+***  
+
 Poster
-======
+======  
+
 **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata   
 ***Ultra-Compact and High-Efficiency Silicon Photonic Devices Utilizing Photonic Crystal Slow-Light Phase Shifter***          
 2026 Spring GlobalNet Workshop in Fukuoka (GNW 2026)  
