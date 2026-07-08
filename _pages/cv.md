@@ -72,6 +72,7 @@ Publications
 **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
 ***Design and numerical analysis of a silicon-based Mach-Zehnder interferometer optical switch using an ultracompact perturbed kagome lattice slow-light phase shifter***          
 [2026 Japanese Journal of Applied Physics, vol. 65, Art. no. 112005](https://iopscience.iop.org/article/10.35848/1347-4065/ae6ea7)    
+
 ***
 
 <!-- **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
