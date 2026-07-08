@@ -14,9 +14,9 @@ header:
 
 Education
 ======
-* B.Eng in Electronic Information Engineering, Sichuan University, China, 2016 - 2020
-* M.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2019 - 2021
-* D.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2021 - present
+* B.Eng in Electronic Information Engineering, Sichuan University, China, 2016.9 - 2020.7
+* M.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2019.9 - 2021.9
+* D.Eng in Information, Production and Systems Engineering, Waseda University, Japan, 2021.9 - 2026.10
 
 ***
 
@@ -71,15 +71,14 @@ Publications
 
 **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
 ***Design and numerical analysis of a silicon-based Mach-Zehnder interferometer optical switch using an ultracompact perturbed kagome lattice slow-light phase shifter***          
-2026 Japanese Journal of Applied Physics (Under Review)           
-
+[2026 Japanese Journal of Applied Physics, vol. 65, Art. no. 112005](https://iopscience.iop.org/article/10.35848/1347-4065/ae6ea7)    
 ***
 
-**Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
+<!-- **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
 ***Numerical Demonstration of Silicon Mach-Zehnder Modulator Using Ultra-Compact Perturbed Kagome Lattice Slow-Light Phase Shifter***          
-2026 IEEE photonics Journal (Under Review)           
+2026 IEEE photonics Journal (Under Revise)           
 
-***
+*** -->
 
 **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
 ***Numerical study on silicon photonic crystal defect waveguide with parametrically engineered photonic bandgap***          
@@ -139,7 +138,8 @@ The 17h International collaboration Symposium on Information, Production and Sys
 
 **Deji Li**, and Kiyoto Takahata          
 ***Design of a silicon photonic crystal slow-light waveguide with a wide low-dispersion bandwidth***          
-The 16th International collaboration Symposium on Information, Production and Systems (ISIPS 2022)          
+The 16th International collaboration Symposium on Information, Production and Systems (ISIPS 2022)  
+***Best presentation award***
 
 ***
 
@@ -154,6 +154,12 @@ Liang DONG, **Deji Li**, and Kiyoto Takahata
 The 14th International collaboration Symposium on Information, Production and Systems (ISIPS 2020)          
 
 ***
+Poster
+======
+**Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata   
+***Ultra-Compact and High-Efficiency Silicon Photonic Devices Utilizing Photonic Crystal Slow-Light Phase Shifter***          
+2026 Spring GlobalNet Workshop in Fukuoka (GNW 2026)  
+***The most outstanding presentation award***
 
 
 <!-- Technical Proficiencies

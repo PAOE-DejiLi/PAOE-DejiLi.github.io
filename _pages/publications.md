@@ -24,16 +24,15 @@ class: wide
 
 ***
 
-**[Under Review]**     
 **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
 ***Design and numerical analysis of a silicon-based Mach-Zehnder interferometer optical switch using an ultracompact perturbed kagome lattice slow-light phase shifter***          
-2026 Japanese Journal of Applied Physics           
+[2026 Japanese Journal of Applied Physics, vol. 65, Art. no. 112005](https://iopscience.iop.org/article/10.35848/1347-4065/ae6ea7)       
 
-**Abstract:** **Under Review**.
-
-***
+**Abstract:** Silicon (Si)-based compact Mach–Zehnder interferometer (MZI) optical switches are critical components in high-density photonic integrated circuits. Electro-optic (EO) MZI optical switches can achieve nanosecond-level switching, but they typically require phase shifters several hundred micrometers long. We previously reported a solution to this problem: an MZI switch that employed a Si-based EO phase shifter using a photonic crystal slow-light waveguide in a perturbed kagome lattice. This design achieved an ultracompact length and fast switching. However, it suffered from a large insertion loss (IL) exceeding 7 dB. In this study, the doping profile in the slow-light phase shifter is modified to reduce the IL to 3.12 dB or less. Detailed numerical analysis further revealed improved ultrahigh modulation efficiency with a half-wave voltage-length product of only 1.53 × 10<sup>-3</sup> V·cm, enabling an ultracompact phase shifter length of 15 μm while maintaining a switching time of 16.2 ns or less..
 
 ***
+
+<!-- ***
 
 **[Under Review]**     
 **Deji Li**, Takaaki Kakitsuka, and Kiyoto Takahata          
@@ -42,7 +41,7 @@ class: wide
 
 **Abstract:** **Under Review**.
 
-***
+*** -->
 
 # 2025
 
@@ -73,11 +72,7 @@ phase shifter of 22 µm is numerically studied. The modulator exhibits an ultra-
 ***Power-efficient 2 × 2 Si Mach-Zehnder interferometer optical switch utilizing compact slow-light phase shifter***          
 [2024 IEEE Silicon Photonics Conference](https://ieeexplore.ieee.org/document/10543281)           
 
-**Abstract:** A novel Si Mach-Zehnder interferometer optical
-switch is numerically studied. Through utilizing the photonic
-crystal waveguide in the perturbed kagome lattice with a high
-group index, a compact phase shifter of 17.7 um is designed, and a
-low switching power of 305 uW is confirmed.
+**Abstract:** A novel Si Mach-Zehnder interferometer optical switch is numerically studied. Through utilizing the photonic crystal waveguide in the perturbed kagome lattice with a high group index, a compact phase shifter of 17.7 um is designed, and a low switching power of 305 uW is confirmed.
 
 ***
 
